@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biblioteca Nacional</string>
+    <string name="biblioteca">Imagem de prateleira</string>
+    <string-array name="lvOpcoes">
+        <item>Livros</item>
+        <item>Autores</item>
+        <item>Editoras</item>
+    </string-array>
+</resources>
